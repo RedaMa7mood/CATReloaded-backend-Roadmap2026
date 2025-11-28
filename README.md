@@ -1016,5 +1016,32 @@ IAmTimCorey</a> [1]
         <ul>
         </ul>
       </td>
+
+   </td> <tr id="week66">
+      <td>Week 6</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li> Pagination, Filtration, Sorting  </li>
+          <li> Mapster Or AutoMapper</li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <ul>
+          <li>
+            <a href="https://youtu.be/X8zRvXbirMU?si=TEe0D9xp_ZwidPBJ">Pagination, Filtration, Sorting</a>
+          </li>
+          <li>
+            <a href="https://youtu.be/UIslFVEHkzA?si=TFoi6vymIaCsaiMi">Mapster</a> (one from board will apply it with you)
+          </li>
+          <li>            
+            <a href="https://youtu.be/87fhsf8gfDg?si=ljIa__4MCb84n_Ir">Automapper Template</a>
+          </li>
+            <li>            
+            <a href="https://www.notion.so/af906e5017314d808aa8a169087c2ba8?pvs=21">Automapper</a>
+          </li>
+        </ul>
+        <ul>
+        </ul>
+      </td>
   </tbody>
 </tab
