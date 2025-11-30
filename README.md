@@ -508,41 +508,8 @@ Introduces SOLID principles, SQL, LINQ, and Entity Framework Core</p>
                     </li>
                   </ul>
                 </td>
-              </tr>
-              <tr  id="week13">
-                <td>Week 13</td>
-                <td>
-                  <h5>📚 Topics</h5>
-                  <ul>
-                    <li>Unit Testing</li>
-                  </ul>
-                  <h5>🗂️ Resources</h5>
-                  <h6>🌏 Arabic</h6>
-                  <ul>
-                    <li>
-                      <a href="https://www.youtube.com/watch?v=dowaRZIJRKE&list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A">
-                        Issam Abdelnabi 
-                      </a>
-                      [54 : 70]
-                    </li>
-                    </li><a href="https://www.youtube.com/playlist?list=PLsV97AQt78NS2O4QeWFVHOOALoehl22vU">
-                      Passionate Coders
-                    </a></li>
-                  </ul>
-                  <h6>🌏 English</h6>
-                  <ul>
-                    <li>
-                      <a href="https://www.youtube.com/watch?v=HYrXogLj7vg&pp=ygUPdW5pdCB0ZXN0aW5nIEMj">
-                        Programming with Mosh</a>
-                    </li>
-                  </ul>
-                </td>
-              </tr>
-               </tr>
-            </tbody>
-          </table>
-        </table>
-      </table>
+              </tr>  
+            
 
 <h1> Intermediate Level</h1>
 <p>
@@ -877,12 +844,18 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
       <td>
         <h5>📚 Topics</h5>
         <ul>
+          <li>Unit Testing</li>
           <li>Unit testing + MVC + API</li>
           <li>Testing Adnanced Techniques</li>
         </ul>
         <h5>🗂️ Resources</h5>
-        <h6>🌏 English</h6>
+        <h6> Take all of them</h6>
         <ul>
+           <li>
+                      <a href="https://www.youtube.com/watch?v=dowaRZIJRKE&list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A">
+                        Issam Abdelnabi 
+                      </a>               
+              </li>
               <li>
             <a href="https://www.youtube.com/playlist?list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4">Teddy Smith</a>
           </li>
