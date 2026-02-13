@@ -1,8 +1,9 @@
 <h1 > Entry Level </h1>
 
-<p><strong>Objective:</strong>
-
-Cover the basics of web development, including HTML, CSS, JavaScript, and browser tools, and introduce version control with Git and GitHub.</p>
+<p>
+<strong>Objective:</strong>
+Cover the basics of web development, including HTML, CSS, JavaScript, and browser tools, and introduce version control with Git and GitHub.
+</p>
 
 <table style="  width: 100%; border-collapse: collapse;font-family: Arial, sans-serif; ">
   <thead>
@@ -26,10 +27,10 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
         <h6>🌏 Arabic</h6>
         <ul>
           <li>
-            <a href="https://youtu.be/oRzjtOJGvWA">Codegraphia: ASP.NET Full Stack Developer كيف تصبح<a>
+            <a href="https://youtu.be/oRzjtOJGvWA">Codegraphia: ASP.NET Full Stack Developer كيف تصبح</a>
           </li>
           <li>
-            <a href="https://www.youtube.com/watch?v=q3yFo-t1ykw">Abdelrahman Gamal (HTML Crash Course)<a>
+            <a href="https://www.youtube.com/watch?v=q3yFo-t1ykw">Abdelrahman Gamal (HTML Crash Course)</a>
           </li>
           <li>
             <a href="https://www.youtube.com/watch?v=Z-5QVutAEW4">Abdelrahman Gamal (CSS Crash Course)</a>
@@ -41,7 +42,7 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
         <h6>🌏 English</h6>
         <ul>
           <li>
-            <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">The Net Ninja (HTML & CSSCrash Course)
+            <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">The Net Ninja (HTML & CSS Crash Course)
             </a>
           </li>
           <li>
@@ -64,16 +65,16 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
         <ul> 
            <li>  
               <a href="https://www.youtube.com/watch?v=Jaqrcw_MB9E&list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8Xpvq"> Issam Abdelnabi
-              <a>
+              </a>
            </li>
-             <li>
+           <li>
               <a href="https://www.youtube.com/watch?v=EzHbZjXDdKc&t=2943s&pp=ygUQYm9vdHN0cmFwINi02LHYrQ%3D%3D"> Abdelrahman Gamal (Bootstrap)
               </a>
-            </i>
-            <li>
+           </li>
+           <li>
               <a href="https://www.youtube.com/watch?v=65EFKUpYk2A&t=2317s&pp=ygUbYm9vdHN0cmFwINi02LHYrSDYqtix2YXZitiy"> اكاديمية ترميز (Bootstrap)
               </a>
-            </i>
+           </li>
         </ul>
         <h6>🌏 English</h6>
         <ul>
@@ -85,44 +86,41 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
     </tr>
   </tbody>
 </table>
+
 ---
+
 <h1>  Beginner Level </h1>
-  <hr>
-  <h4>
-<a href="https://www.youtube.com/playlist?list=PLVMqeUndPM9-ydOUDMGP9bUhaMTt_728Y"> 
-    First of all,<br> you can explore the backend concepts you’ll encounter throughout your learning journey
-</a>
-  </h4>
-  <hr>
-
-<p><strong>Objective:</strong>
-
-
-Focuses on C#   fundamentals
-Explores object-oriented programming, generics, collections, and asynchronous programming
-Introduces SOLID principles, SQL, LINQ, and Entity Framework Core</p>
-    <details>
-      <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
-      <div style="margin-left: 20px">
-        <ul>
-          <li><a href="#week1">Week 1</a></li>
-          <li><a href="#week2">Week 2</a></li>
-          <li><a href="#week3">Week 3</a></li>
-          <li><a href="#week4">Week 4</a></li>
-          <li><a href="#week5">Week 5</a></li>
-          <li><a href="#week6">Week 6</a></li>
-          <li><a href="#week7">Week 7</a></li>
-          <li><a href="#week8">Week 8</a></li>
-          <li><a href="#week9">Week 9</a></li>
-          <li><a href="#week10">Week 10</a></li>
-          <li><a href="#week11">Week 11</a></li>
-          <li><a href="#week12">Week 12</a></li>
-          <li><a href="#week13">Week 13</a></li>
-        </ul>
-      </div>
-    </details>
-
----
+<h5>
+  <a href="https://www.youtube.com/playlist?list=PLVMqeUndPM9-ydOUDMGP9bUhaMTt_728Y"> 
+      First of all,<br> you can explore the backend concepts you’ll encounter throughout your learning journey
+  </a>
+</h5>
+<hr>
+<p>
+<strong>Objective:</strong>
+Focuses on C# fundamentals<br>
+Explores object-oriented programming, generics, collections, and asynchronous programming<br>
+Introduces SOLID principles, SQL, LINQ, and Entity Framework Core<br>
+</p>
+<details>
+  <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
+  <div style="margin-left: 20px">
+    <ul>
+      <li><a href="#week1">Week 1</a></li>
+      <li><a href="#week2">Week 2</a></li>
+      <li><a href="#week3">Week 3</a></li>
+      <li><a href="#week4">Week 4</a></li>
+      <li><a href="#week5">Week 5</a></li>
+      <li><a href="#week6">Week 6</a></li>
+      <li><a href="#week7">Week 7</a></li>
+      <li><a href="#week8">Week 8</a></li>
+      <li><a href="#week9">Week 9</a></li>
+      <li><a href="#week10">Week 10</a></li>
+      <li><a href="#week11">Week 11</a></li>
+      <li><a href="#week12">Week 12</a></li>
+    </ul>
+  </div>
+</details>
 
 <table style="  width: 100%; border-collapse: collapse;font-family: Arial, sans-serif; ">
   <thead>
@@ -478,8 +476,6 @@ Introduces SOLID principles, SQL, LINQ, and Entity Framework Core</p>
                   </ul>
                 </td>
               </tr>
-              </tr>
-              </tr>
               <tr  id="week12">
                 <td>Week 12</td>
                 <td>
@@ -496,9 +492,11 @@ Introduces SOLID principles, SQL, LINQ, and Entity Framework Core</p>
                       </a>
                       [54 : 70]
                     </li>
-                    </li><a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv&si=BNXRAZ9ZXb2ILVUf">
-                      Issam Abdelnabi
-                    </a></li>
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv&si=BNXRAZ9ZXb2ILVUf">
+                        Issam Abdelnabi
+                      </a>
+                    </li>
                   </ul>
                   <h6>🌏 English</h6>
                   <ul>
@@ -508,13 +506,16 @@ Introduces SOLID principles, SQL, LINQ, and Entity Framework Core</p>
                     </li>
                   </ul>
                 </td>
-              </tr>  
-            
+              </tr>
+            </tbody>
+</table>
+
+---
 
 <h1> Intermediate Level</h1>
 <p>
-<strong>Objective :</strong>
-Dives into design patterns,Covers the Model-View-Controller (MVC) architectural pattern, building RESTful APIs ,Explores the Repository pattern and authentication & authorization
+<strong>Objective:</strong>
+Dives into design patterns,Covers the Model-View-Controller (MVC) architectural pattern, building RESTful APIs ,Explores the Repository pattern, authentication & authorization and Unit Testing
 </p>
 <details>
   <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
@@ -535,8 +536,6 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
     </ul>
   </div>
 </details>
-
----
 
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead>
@@ -744,32 +743,13 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h6>🌏 Arabic</h6>
         <ul>
           <li>
-            <a href="https://youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh&si=kMALO_VXyPWocJ0h">Passionate Coders</a> [11:12]
+            <a href="https://youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh&si=kMALO_VXyPWocJ0h">Passionate Coders</a> [11:14]
           </li>
-        </ul>  <ul>
         </ul>
       </td>
     </tr>
     <tr id="week29">
       <td>Week 9</td>
-      <td>
-        <h5>📚 Topics</h5>
-        <ul>
-          <li>API</li>
-        </ul>
-        <h5>🗂️ Resources</h5>
-        <h6>🌏 Arabic</h6>
-        <ul>
-          <li>
-            <a href="https://youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh&si=kMALO_VXyPWocJ0h">Passionate Coders</a> [13:14]
-          </li>
-        </ul>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr id="week210">
-      <td>Week 10</td>
       <td>
         <h5>📚 Topics</h5>
         <ul>
@@ -784,8 +764,8 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         </ul>
       </td>
     </tr>
-    <tr id="week211">
-      <td>Week 11</td>
+    <tr id="week210">
+      <td>Week 10</td>
       <td>
         <h5>📚 Topics</h5>
         <ul>
@@ -809,8 +789,8 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         </ul>
       </td>
     </tr>
-    <tr id="week212">
-      <td>Week 12</td>
+    <tr id="week211">
+      <td>Week 11</td>
       <td>
         <h5>📚 Topics</h5>
         <ul>
@@ -839,24 +819,22 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         </ul>
       </td>
     </tr>
-        <tr id="week213">
-      <td>Week 13</td>
+        <tr id="week212">
+      <td>Week 12</td>
       <td>
         <h5>📚 Topics</h5>
         <ul>
           <li>Unit Testing</li>
           <li>Unit testing + MVC + API</li>
-          <li>Testing Adnanced Techniques</li>
+          <li>Testing Advanced Techniques</li>
         </ul>
         <h5>🗂️ Resources</h5>
         <h6> Take all of them</h6>
         <ul>
-           <li>
-                      <a href="https://www.youtube.com/watch?v=dowaRZIJRKE&list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A">
-                        Issam Abdelnabi 
-                      </a>               
-              </li>
-              <li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=dowaRZIJRKE&list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A">Issam Abdelnabi</a>               
+          </li>
+          <li>
             <a href="https://www.youtube.com/playlist?list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4">Teddy Smith</a>
           </li>
           <li>
@@ -868,27 +846,34 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
   </tbody>
 </table>
 
+---
+
 <h1> Advanced Level </h1>
-
-
- <h5>   <a href="https://youtu.be/V3ZPPPKEipA?si=lI7-Ppj-idldxwkX">From here,<br> you should be certain about these things. They’re necessary for you, and any issues with them can be fixed in parallel with your projects and advanced-level learning</a></h5>
-
+<h5>
+  <a href="https://youtu.be/V3ZPPPKEipA?si=lI7-Ppj-idldxwkX">From here,<br> you should be certain about these things. They’re necessary for you, and any issues with them can be fixed in parallel with your projects and advanced-level learning
+  </a>
+</h5>
 <hr>
-<p>Objective:
-
-Dive into advanced  topics, backend optimizations, and advanced database techniques.</p>
-
- <details>
-      <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
-      <div style="margin-left: 20px">
-        <ul>
-          <li><a href="#week31">Week 1</a></li>
-          <li><a href="#week32">Week 2</a></li>
-          <li><a href="#week33">Week 3</a></li>
-       </ul>
-      </div>
-    </details>
-
+<p>
+<strong>Objective:</strong>
+Dive into advanced  topics, backend optimizations, and advanced database techniques.
+</p>
+<details>
+  <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
+  <div style="margin-left: 20px">
+    <ul>
+      <li><a href="#week31">Week 1</a></li>
+      <li><a href="#week32">Week 2</a></li>
+      <li><a href="#week33">Week 3</a></li>
+      <li><a href="#week34">Week 4</a></li>
+      <li><a href="#week35">Week 5</a></li>
+      <li><a href="#week36">Week 6</a></li>
+      <li><a href="#week37">Week 7</a></li>
+      <li><a href="#week38">Week 8</a></li>
+      <li><a href="#week39">Week 9</a></li>
+    </ul>
+  </div>
+</details>
 
 <table style="  width: 100%; border-collapse: collapse;font-family: Arial, sans-serif; ">
   <thead>
@@ -919,8 +904,7 @@ Dive into advanced  topics, backend optimizations, and advanced database techniq
             <a href="https://youtu.be/39gIPekzpjs?si=GJLv6WdSGj2Fm0UJ">Rahul Nath </a> [1]
           </li>
           <li>
-            <a href="https://youtu.be/ip3Z4ZcAgA8?si=MWh2rh3cgvsBgrBe">
-IAmTimCorey</a> [1]
+            <a href="https://youtu.be/ip3Z4ZcAgA8?si=MWh2rh3cgvsBgrBe">IAmTimCorey</a> [1]
           </li>
              </ul>
       </td>
@@ -978,7 +962,7 @@ IAmTimCorey</a> [1]
             <a href="https://youtu.be/BMXgJxSaDSo">Milan Jovanović</a>
           </li>
         </ul>
-        <p> (SignalR) take all of them
+        <p> (SignalR) take all of them </p>
         <ul>
           <li>
             <a href="https://www.youtube.com/playlist?list=PLOeFnOV9YBa7nzzuXnThdfsyY06AuCP5V">Raw Coding</a>
@@ -1010,7 +994,9 @@ IAmTimCorey</a> [1]
         </ul>
         <ul>
         </ul>
-      </td> <tr id="week45">
+      </td> 
+    </tr>
+    <tr id="week35">
       <td>Week 5</td>
       <td>
         <h5>📚 Topics</h5>
@@ -1033,7 +1019,8 @@ IAmTimCorey</a> [1]
         <ul>
         </ul>
       </td>
-      </td> <tr id="week56">
+    </tr>
+    <tr id="week36">
       <td>Week 6</td>
       <td>
         <h5>📚 Topics</h5>
@@ -1057,9 +1044,8 @@ IAmTimCorey</a> [1]
         <ul>
         </ul>
       </td>
-
-   </td>
-    <tr id="week67">
+    </tr>
+    <tr id="week37">
       <td>Week 7</td>
       <td>
         <h5>📚 Topics</h5>
@@ -1086,8 +1072,8 @@ IAmTimCorey</a> [1]
           </li>
         </ul>
       </td>
-         </td>
-    <tr id="week68">
+    </tr>
+    <tr id="week38">
       <td>Week 8</td>
       <td>
         <h5>📚 Topics</h5>
@@ -1113,7 +1099,8 @@ IAmTimCorey</a> [1]
           </li>
         </ul>
       </td>
-          <tr id="week69">
+    </tr>
+    <tr id="week39">
       <td>Week 9</td>
       <td>
         <h5>📚 Topics</h5>
@@ -1144,5 +1131,6 @@ IAmTimCorey</a> [1]
           </li>
         </ul>
       </td>
+    </tr>
   </tbody>
-</tab
+</table>
