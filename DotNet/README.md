@@ -1,8 +1,8 @@
 <h1 > Entry Level </h1>
 
 <p><strong>Objective:</strong>
-
-Cover the basics of web development, including HTML, CSS, JavaScript, and browser tools, and introduce version control with Git and GitHub.</p>
+Cover the basics of web development, including HTML, CSS, JavaScript, and browser tools, and introduce version control with Git and GitHub.
+</p>
 
 <table style="  width: 100%; border-collapse: collapse;font-family: Arial, sans-serif; ">
   <thead>
@@ -85,43 +85,41 @@ Cover the basics of web development, including HTML, CSS, JavaScript, and browse
     </tr>
   </tbody>
 </table>
+
 ---
+
 <h1>  Beginner Level </h1>
-  <hr>
-  <h4>
-<a href="https://www.youtube.com/playlist?list=PLVMqeUndPM9-ydOUDMGP9bUhaMTt_728Y"> 
-    First of all,<br> you can explore the backend concepts you’ll encounter throughout your learning journey
-</a>
-  </h4>
-  <hr>
-
+<h5>
+  <a href="https://www.youtube.com/playlist?list=PLVMqeUndPM9-ydOUDMGP9bUhaMTt_728Y"> 
+      First of all,<br> you can explore the backend concepts you’ll encounter throughout your learning journey
+  </a>
+</h5>
+<hr>
 <p>
-  <strong>Objective:</strong>
-Focuses on C# fundamentals
-Explores object-oriented programming, generics, collections, and asynchronous programming
-Introduces SOLID principles, SQL, LINQ, and Entity Framework Core
+<strong>Objective:</strong>
+Focuses on C# fundamentals<br>
+Explores object-oriented programming, generics, collections, and asynchronous programming<br>
+Introduces SOLID principles, SQL, LINQ, and Entity Framework Core<br>
 </p>
-    <details>
-      <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
-      <div style="margin-left: 20px">
-        <ul>
-          <li><a href="#week1">Week 1</a></li>
-          <li><a href="#week2">Week 2</a></li>
-          <li><a href="#week3">Week 3</a></li>
-          <li><a href="#week4">Week 4</a></li>
-          <li><a href="#week5">Week 5</a></li>
-          <li><a href="#week6">Week 6</a></li>
-          <li><a href="#week7">Week 7</a></li>
-          <li><a href="#week8">Week 8</a></li>
-          <li><a href="#week9">Week 9</a></li>
-          <li><a href="#week10">Week 10</a></li>
-          <li><a href="#week11">Week 11</a></li>
-          <li><a href="#week12">Week 12</a></li>
-        </ul>
-      </div>
-    </details>
-
----
+<details>
+  <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
+  <div style="margin-left: 20px">
+    <ul>
+      <li><a href="#week1">Week 1</a></li>
+      <li><a href="#week2">Week 2</a></li>
+      <li><a href="#week3">Week 3</a></li>
+      <li><a href="#week4">Week 4</a></li>
+      <li><a href="#week5">Week 5</a></li>
+      <li><a href="#week6">Week 6</a></li>
+      <li><a href="#week7">Week 7</a></li>
+      <li><a href="#week8">Week 8</a></li>
+      <li><a href="#week9">Week 9</a></li>
+      <li><a href="#week10">Week 10</a></li>
+      <li><a href="#week11">Week 11</a></li>
+      <li><a href="#week12">Week 12</a></li>
+    </ul>
+  </div>
+</details>
 
 <table style="  width: 100%; border-collapse: collapse;font-family: Arial, sans-serif; ">
   <thead>
@@ -515,7 +513,7 @@ Introduces SOLID principles, SQL, LINQ, and Entity Framework Core
 
 <h1> Intermediate Level</h1>
 <p>
-<strong>Objective :</strong>
+<strong>Objective:</strong>
 Dives into design patterns,Covers the Model-View-Controller (MVC) architectural pattern, building RESTful APIs ,Explores the Repository pattern, authentication & authorization and Unit Testing
 </p>
 <details>
@@ -534,12 +532,9 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
       <li><a href="#week210">Week 10</a></li>
       <li><a href="#week211">Week 11</a></li>
       <li><a href="#week212">Week 12</a></li>
-      <li><a href="#week213">Week 13</a></li>
     </ul>
   </div>
 </details>
-
----
 
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead>
@@ -747,32 +742,13 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h6>🌏 Arabic</h6>
         <ul>
           <li>
-            <a href="https://youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh&si=kMALO_VXyPWocJ0h">Passionate Coders</a> [11:12]
+            <a href="https://youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh&si=kMALO_VXyPWocJ0h">Passionate Coders</a> [11:14]
           </li>
-        </ul>  <ul>
         </ul>
       </td>
     </tr>
     <tr id="week29">
       <td>Week 9</td>
-      <td>
-        <h5>📚 Topics</h5>
-        <ul>
-          <li>API</li>
-        </ul>
-        <h5>🗂️ Resources</h5>
-        <h6>🌏 Arabic</h6>
-        <ul>
-          <li>
-            <a href="https://youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh&si=kMALO_VXyPWocJ0h">Passionate Coders</a> [13:14]
-          </li>
-        </ul>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr id="week210">
-      <td>Week 10</td>
       <td>
         <h5>📚 Topics</h5>
         <ul>
@@ -787,8 +763,8 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         </ul>
       </td>
     </tr>
-    <tr id="week211">
-      <td>Week 11</td>
+    <tr id="week210">
+      <td>Week 10</td>
       <td>
         <h5>📚 Topics</h5>
         <ul>
@@ -812,8 +788,8 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         </ul>
       </td>
     </tr>
-    <tr id="week212">
-      <td>Week 12</td>
+    <tr id="week211">
+      <td>Week 11</td>
       <td>
         <h5>📚 Topics</h5>
         <ul>
@@ -842,8 +818,8 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         </ul>
       </td>
     </tr>
-        <tr id="week213">
-      <td>Week 13</td>
+        <tr id="week212">
+      <td>Week 12</td>
       <td>
         <h5>📚 Topics</h5>
         <ul>
@@ -872,31 +848,31 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
 ---
 
 <h1> Advanced Level </h1>
- <h5>   <a href="https://youtu.be/V3ZPPPKEipA?si=lI7-Ppj-idldxwkX">From here,<br> you should be certain about these things. They’re necessary for you, and any issues with them can be fixed in parallel with your projects and advanced-level learning</a>
- </h5>
-
+<h5>
+  <a href="https://youtu.be/V3ZPPPKEipA?si=lI7-Ppj-idldxwkX">From here,<br> you should be certain about these things. They’re necessary for you, and any issues with them can be fixed in parallel with your projects and advanced-level learning
+  </a>
+</h5>
+<hr>
 <p>
 <strong>Objective:</strong>
-
-Dive into advanced  topics, backend optimizations, and advanced database techniques.</p>
-
- <details>
-      <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
-      <div style="margin-left: 20px">
-        <ul>
-          <li><a href="#week31">Week 1</a></li>
-          <li><a href="#week32">Week 2</a></li>
-          <li><a href="#week33">Week 3</a></li>
-          <li><a href="#week34">Week 4</a></li>
-          <li><a href="#week35">Week 5</a></li>
-          <li><a href="#week36">Week 6</a></li>
-          <li><a href="#week37">Week 7</a></li>
-          <li><a href="#week38">Week 8</a></li>
-          <li><a href="#week39">Week 9</a></li>
-       </ul>
-      </div>
-    </details>
-
+Dive into advanced  topics, backend optimizations, and advanced database techniques.
+</p>
+<details>
+  <summary style="font-weight: bold; font-size: 1.2em">Index</summary>
+  <div style="margin-left: 20px">
+    <ul>
+      <li><a href="#week31">Week 1</a></li>
+      <li><a href="#week32">Week 2</a></li>
+      <li><a href="#week33">Week 3</a></li>
+      <li><a href="#week34">Week 4</a></li>
+      <li><a href="#week35">Week 5</a></li>
+      <li><a href="#week36">Week 6</a></li>
+      <li><a href="#week37">Week 7</a></li>
+      <li><a href="#week38">Week 8</a></li>
+      <li><a href="#week39">Week 9</a></li>
+    </ul>
+  </div>
+</details>
 
 <table style="  width: 100%; border-collapse: collapse;font-family: Arial, sans-serif; ">
   <thead>
