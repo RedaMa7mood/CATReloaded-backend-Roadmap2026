@@ -1,6 +1,7 @@
 <h1 > Entry Level </h1>
 
-<p><strong>Objective:</strong>
+<p>
+<strong>Objective:</strong>
 Cover the basics of web development, including HTML, CSS, JavaScript, and browser tools, and introduce version control with Git and GitHub.
 </p>
 
